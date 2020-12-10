@@ -1,0 +1,27 @@
+{
+  "name": "budget-accounter",
+  "version": "1.0.0",
+  "description": "## Screenshot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenali/budget-accounter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenali/budget-accounter/issues"
+  },
+  "homepage": "https://github.com/nguyenali/budget-accounter#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.6",
+    "morgan": "^1.10.0"
+  }
+}
